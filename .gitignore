@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignora arquivos de TSV
+*.tsv 
+*.TSV
+
 # C extensions
 *.so
 
